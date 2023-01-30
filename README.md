@@ -17,23 +17,23 @@ In this project, I have implemented several Machine Learning Algorithms to impro
 
 ## Algorithms:
   
-  1.K means Clustering
-  2.Decision tree classifier
-  3.Gradient Boost Classifier
-  4.KNN Classifier
-  5.Random Forest Classifier 
-  6.Logistic Regression
-  7.Data visualization
-  8.Finding the hiddden patterns
-  9.Prediction
+  * K means Clustering
+  * Decision tree classifier
+  * Gradient Boost Classifier
+  * KNN Classifier
+  * Random Forest Classifier 
+  * Logistic Regression
+  * Data visualization
+  * Finding the hiddden patterns
+  * Prediction
   
 # Accuracy:
-  GradientBoostingClassifier : 91.4%
-  KNeighborsClassifier :90.4%
-  RandomForestClassifier : 94%
-  XGBClassifier : 93.4%
-  LogisticRegression : 90%
-  DecisionTreeClassifier :93%
+    * GradientBoostingClassifier : 91.4%
+    * KNeighborsClassifier :90.4%
+    * RandomForestClassifier : 94%
+    * XGBClassifier : 93.4%
+    * LogisticRegression : 90%
+    * DecisionTreeClassifier :93%
 
 
   
