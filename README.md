@@ -28,12 +28,13 @@ In this project, I have implemented several Machine Learning Algorithms to impro
   * Prediction
   
 # Accuracy:
-    * GradientBoostingClassifier : 91.4%
-    * KNeighborsClassifier :90.4%
-    * RandomForestClassifier : 94%
-    * XGBClassifier : 93.4%
-    * LogisticRegression : 90%
-    * DecisionTreeClassifier :93%
+
+  * GradientBoostingClassifier : 91.4%
+  * KNeighborsClassifier :90.4%
+  * RandomForestClassifier : 94%
+  * XGBClassifier : 93.4%
+  * LogisticRegression : 90%
+  * DecisionTreeClassifier :93%
 
 
   
